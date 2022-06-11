@@ -32,7 +32,7 @@ eqwewqeqw
                             <li class="text-70 mb-3pt"  style="font-size: 18px">
                                 Online diplomas are awarded for one to two years of study with LMS.                            </li>
                             <li class="text-70 mb-3pt"  style="font-size: 18px">
-                                Online associate degrees usually take approximately two years then.
+                                Online associate degrees usually take approximately two years THEN.
                             </li>
                             <li class="text-70 mb-3pt"  style="font-size: 18px">
                                 Online preparatory year programs are an opportunity for students.
